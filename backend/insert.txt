@@ -1,0 +1,4 @@
+INSERT INTO categories (code, value, header, subheader, createdAt, updatedAt) VALUES ("CTCH", "Cho thuê căn hộ", "Chung cư", current_timestamp, current_timestamp, current_timestamp);
+INSERT INTO categories (code, value, header, subheader, createdAt, updatedAt) VALUES ("CTMB", "Cho thuê mặt bằng","Mặt bằng",current_timestamp,current_timestamp, current_timestamp);
+INSERT INTO categories (code, value, header, subheader, createdAt, updatedAt) VALUES ("CTPT","Cho thuê phòng trọ", "Phòng trọ", current_timestamp,current_timestamp, current_timestamp);
+INSERT INTO categories (code, value, header, subheader, createdAt, updatedAt) VALUES ("NCT", " Nhà cho thuê","Nhà nguyên căn ",current_timestamp, current_timestamp, current_timestamp);
